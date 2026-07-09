@@ -1,0 +1,1 @@
+This is the port of doom emacs homage-black theme to nvim. I like to have the consistency between my emacs and nvim so I used claude code shamelessly to make this port. Use this with your own risk since i will not maintain this.
